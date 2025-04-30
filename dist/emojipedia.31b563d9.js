@@ -18564,6 +18564,18 @@ const emojipedia = [
         emoji: "\uD83E\uDD13",
         name: "Nerd Face",
         meaning: "Nerd emoji \uD83E\uDD13 is a face with big glasses, an awkward smile and buck teeth. It's often used in a humorous or ironic way to describe nerds or to express how smart you are. It represents the stereotype of the nerd, an intelligent but oddly dressed person with social deficits."
+    },
+    {
+        id: 5,
+        emoji: "\uD83E\uDD72",
+        name: "Smiling face with tear",
+        meaning: "The \uD83E\uDD72 emoji stands for smiling through the tough times and symbolizes trying to stay positive even in difficult moments. You are smiling through the pain instead of being truly happy.It shows the ability to hide true feelings behind a smile when dealing with problems or difficult times in life."
+    },
+    {
+        id: 6,
+        emoji: "\uD83D\uDE1D",
+        name: "Face With Stuck-Out Tongue & Tightly Closed Eyes",
+        meaning: "Users can use the \uD83D\uDE1D emoji, which is a winking face with its tongue stuck out, to playfully express their feelings by making fun of, getting angry at, or jokingly insulting someone. This emoji is often used for provocative messages, crude or black humor, and gloating."
     }
 ];
 exports.default = emojipedia;
