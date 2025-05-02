@@ -21,5 +21,4 @@ A basic React application that displays a list of emojis with their titles and m
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/emojipedia-react-app.git
-cd emojipedia-react-app
+git clone https://github.com/shamak24/emojipedia.git
